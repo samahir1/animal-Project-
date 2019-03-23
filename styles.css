@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+.up {
+  object-fit: cover;
+  width: 300px;
+  height: 900px;
+    padding: 1em;
+    border: 2px solid red;
+    display :flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+     font-family: sans-serif;
+       background: #ff9999
+  }
+
+.one {
+  padding: 8px;
+
+  border: 2px solid red;
+}
+
+.fact {
+     font-style: italic;
+     padding: 8px;
+
+     border: 2px solid red;
+   }
+
+
+span {
+
+  font: bold 16px/1.4 Georgia;
+}
+
+ul {
+  padding: 7px;
+background: #ff1a53
+  border: 2px solid red;
+}
+
+li {
+
+  list-style: none;
+  text-align: center;
+
+}
+.box {
+  padding: 8px;
+background: #ff1a53
+  border: 2px solid red ;
+}

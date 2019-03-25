@@ -1,6 +1,6 @@
 /* add your CSS here */
 
-.up {
+.wrapper {
   object-fit: cover;
   width: 300px;
   height: 900px;
@@ -14,7 +14,7 @@
        background: #ff9999
   }
 
-.one {
+.container {
   padding: 8px;
 
   border: 2px solid red;
